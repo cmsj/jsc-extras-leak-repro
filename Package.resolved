@@ -1,0 +1,33 @@
+{
+  "originHash" : "e22ce966d78aa243bb84e5338820f5373c0149501ebd543e07780a4c25cb7609",
+  "pins" : [
+    {
+      "identity" : "javascript-core-extras",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mhayes853/javascript-core-extras",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dbd8d7673776b663e1b95bd5df8a1a7b90641f4a"
+      }
+    },
+    {
+      "identity" : "swift-issue-reporting",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-issue-reporting",
+      "state" : {
+        "revision" : "b23bb4493c439d3e05152bc167014235ba3d47fc",
+        "version" : "2.1.2"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "d9308ad679143c26a30dec52daefe82f54af2b82",
+        "version" : "1.13.1"
+      }
+    }
+  ],
+  "version" : 3
+}
